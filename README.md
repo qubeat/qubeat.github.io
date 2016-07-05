@@ -1,6 +1,6 @@
 ![Toffoli gate](https://qubeat.github.io/tof.gif)
-# GitHub Website
-*Website for qubeat's projects on QitHub*
+# Website for GitHub projects
+*Website for qubeat's projects on GitHub*
 
 Visit GitHub qubeat projects website on https://qubeat.github.io
 
